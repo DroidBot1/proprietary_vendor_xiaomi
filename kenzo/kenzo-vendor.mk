@@ -201,6 +201,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/lib/libRecoFace.so:system/lib/libRecoFace.so \
     vendor/xiaomi/kenzo/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/xiaomi/kenzo/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
+    vendor/xiaomi/kenzo/proprietary/lib64/hw/fingerprint.msm8952.so:system/lib64/hw/fingerprint.msm8952.so \
+    vendor/xiaomi/kenzo/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
+    vendor/xiaomi/kenzo/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/Diag.cfg:system/vendor/Diag.cfg \
     vendor/xiaomi/kenzo/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/xiaomi/kenzo/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/kenzo/proprietary/vendor/bin/qti:system/vendor/bin/qti \
